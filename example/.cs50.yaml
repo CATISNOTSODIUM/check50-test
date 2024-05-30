@@ -1,4 +1,4 @@
-cat:
+check50:
   checks:
     hello world:
       - run: python3 hello.py
